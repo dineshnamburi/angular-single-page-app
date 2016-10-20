@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/idigroup/application/views/includes/template_log.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/views/includes/header.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/login/views/login_form.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/login.html</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/projects/controllers/projects.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/user/views/dashboard.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/projects/views/add_project.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/views/includes/main_content.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/dashboard.html</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/user/controllers/user.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/views/includes/navigation.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/login/controllers/login.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/views/includes/footer.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/modules/login/models/login_model.php</file>
+            <file>file:/C:/xampp/htdocs/idigroup/application/config/database.php</file>
+        </group>
+    </open-files>
+</project-private>

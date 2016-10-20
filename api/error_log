@@ -1,0 +1,51 @@
+[24-Aug-2016 20:13:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:13:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:14:51 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:15:28 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:16:44 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:16:55 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:18:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:21:00 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:21:37 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 184
+[24-Aug-2016 20:36:14 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 162
+[24-Aug-2016 20:42:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 163
+[24-Aug-2016 20:43:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 163
+[24-Aug-2016 20:43:44 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/luxbill/public_html/api/application/controllers/common.php on line 163
+[19-Sep-2016 20:00:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 281
+[19-Sep-2016 20:02:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 281
+[19-Sep-2016 20:05:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 302
+[19-Sep-2016 20:08:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:20:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:20:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:20:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:34:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:34:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:34:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[19-Sep-2016 20:34:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/luxbill/public_html/api/application/controllers/common.php on line 303
+[20-Sep-2016 18:14:07 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 18:16:11 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 18:30:55 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:00:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:00:50 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:01:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:01:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:01:27 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:01:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[20-Sep-2016 19:02:10 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/luxbill/public_html/api/application/controllers/common.php on line 354
+[24-Sep-2016 09:21:51 Etc/GMT] PHP Fatal error:  Call to undefined function sendEmailRegister() in /home/luxbill/public_html/api/application/controllers/common.php on line 342
+[24-Sep-2016 09:22:11 Etc/GMT] PHP Fatal error:  Call to undefined function sendEmailRegister() in /home/luxbill/public_html/api/application/controllers/common.php on line 342
+[24-Sep-2016 14:15:05 Etc/GMT] PHP Fatal error:  Call to undefined function sendEmailRegister() in /home/luxbill/public_html/api/application/controllers/common.php on line 342
+[24-Sep-2016 14:22:31 Etc/GMT] PHP Fatal error:  Call to undefined function sendEmailRegister() in /home/luxbill/public_html/api/application/controllers/common.php on line 343
+[24-Sep-2016 14:27:31 Etc/GMT] PHP Fatal error:  Call to undefined method Common::sendEmailRegister() in /home/luxbill/public_html/api/application/controllers/common.php on line 343
+[29-Sep-2016 09:42:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/luxbill/public_html/api/application/controllers/common.php on line 475
+[29-Sep-2016 09:43:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/luxbill/public_html/api/application/controllers/common.php on line 475
+[29-Sep-2016 09:43:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/luxbill/public_html/api/application/controllers/common.php on line 475
+[29-Sep-2016 09:43:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/luxbill/public_html/api/application/controllers/common.php on line 475
+[30-Sep-2016 20:02:18 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[30-Sep-2016 20:05:15 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[30-Sep-2016 20:08:10 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[30-Sep-2016 20:09:33 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[30-Sep-2016 20:11:33 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[30-Sep-2016 20:16:07 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[30-Sep-2016 20:20:10 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/luxbill/public_html/api/application/models/core_model.php on line 441
+[02-Oct-2016 22:33:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '$type' (T_VARIABLE) in /home/luxbill/public_html/api/application/controllers/common.php on line 515
