@@ -1,7 +1,8 @@
 <header id="header" class="alt" ng-controller="HeaderCtrl">
-	<h1><a href="https://www.luxbill.com"><img style="width:120px;" src="assets/images/logo.png"></a></h1>
+	<h1><a href="https:localhost/luxbill"><img style="width:140px;" src="assets/images/logo.png"></a></h1>
 	<nav id="nav">
 		<ul>
+			<li ><a ui-sref="home" >Home</a></li>
 			<li>
 				<a ui-sref="about" >About us</a>
 				<ul>
@@ -40,15 +41,13 @@
 				<li ng-if="LoggedIn && typePartner"><a href="">Consultant</a></li>
 			</ul>
 		</li>
-		<li><a ui-sref="client">Client</a></li>
-		<li><a ui-sref="career">Careers</a>
-
-		</li>
-		<li ><a ui-sref="contact" class="button pull-right">Contact us</a></li>
+		<li><a ui-sref="client">Clients</a></li>
+		<li><a ui-sref="career">Careers</a></li>
+		<li ><a ui-sref="contact" >Contact us</a></li>
 		
-		<li><a ui-sref="login" ng-if="!LoggedIn" ui-sref="login" class="button pull-right dropdown-toggle">Login</a></li>
+		<li><a ui-sref="login" ng-if="!LoggedIn" ui-sref="login" class="button pull-right dropdown-toggle sign_u">Sign Up / Login</a></li>
 		<li ng-if="LoggedIn">
-			<a href="" class="button dropdown-toggle pull-right" data-toggle="dropdown">My Account</a>
+			<a href="" class="button dropdown-toggle pull-right sign_u" data-toggle="dropdown">My Account</a>
 			<ul class="dropdown-menu">
 					<li ui-sref="profile"><a href="">Profile</a></li>
 					<!-- <li ng-if="typePartner"><a href="">Consultant</a></li> -->
@@ -61,3 +60,4 @@
 
 	</nav>
 </header>
+<br/><br/>

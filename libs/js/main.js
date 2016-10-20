@@ -35,7 +35,8 @@
 
 		// Dropdowns.
 			$('#nav > ul').dropotron({
-				alignment: 'right'
+				alignment: 'right',
+				expandMode: 'click'
 			});
 
 		// Off-Canvas Navigation.

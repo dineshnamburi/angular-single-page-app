@@ -27,6 +27,7 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	
 .carousel,
 .item,
 .active {
@@ -50,8 +51,12 @@
 }
 	#header a{
 		font-weight: 400;
+		
 	}
-
+	.sign_u{
+		    border: 1px solid #807d7d;
+			color:#715d5d !important;
+	}
 	#header input[type="button"],
 		#header .button {
 			background-color: transparent;
@@ -63,6 +68,7 @@
 			background-color: #fff;
 			box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.8);
 			color: rgba(0, 0, 0, 0.6);
+			border: 1px solid #807d7d !important;
 		}
 
 /* Box Model */
@@ -118,7 +124,6 @@
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0.5em 0 0.5em 0;
-		text-decoration: underline;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -275,9 +280,9 @@
 /* Footer */
 
 	footer 	{
-		margin-top: 8%;
+		margin-top: 5%;
 		background: #444444;
-		padding: 2em 0 2em 0;
+		padding: 0 0 2em 0;
 		text-align: left;
 		color:#A9A9A9;
 	}
@@ -880,7 +885,7 @@
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
-			left: 20.75em;
+			left: 16.75em;
 			top: 0;
 			vertical-align: middle;
 		}
@@ -1107,6 +1112,10 @@ ul h4{
 	background-color: #E31717;
 }
 
+address > a:hover{
+	color : red;
+}
+
 #nav ul ul a
 {
 	line-height:0%;
@@ -1148,4 +1157,98 @@ form p{
 #footer-nav .nav > li > a:focus,#footer-nav .nav > li > a:hover{
     background: none;
     color:#E31717;
+}
+.layer_2 {
+    max-width: 690px;
+    margin: 0 auto;
+    padding: 45px 20px 15px;
+    background-color: rgba(255,255,255,0.9);
+}
+
+.red_txt{
+	color : #E31717 !important;
+	
+}
+#calls_to_action {text-align: center;line-height: 1.3em;}
+
+#calls_to_action .container {position: relative;height: 220px;background-color: #f7f7f7;}
+
+#calls_to_action .container h3 {position: absolute;left: 10px;right: 10px;top: 18%;margin: 0;padding: 100px 0 0;text-transform: uppercase;font-weight: normal;font-size: 14px;line-height: 1.3em;background-repeat: no-repeat;background-position: center top;background-size: 91px 85px;}
+#calls_to_action .container .hover {position: absolute;z-index: 998;opacity: 0;left: 0;right: 0;top: 0;bottom: 0;color: #fff;background-color: #6859ab;transition: opacity 0.5s, transform 0.5s;-webkit-transform: opacity 0.5s, -webkit-transform 0.5s;}
+#calls_to_action .container:hover .hover {opacity: 1;transform: scale(1.1,1.1);-webkit-transform: scale(1.1,1.1);}
+
+#calls_to_action .container .hover .full_coverage_link {position: absolute;left: 0;right: 0;top: 0;bottom: 0;text-decoration: none;}
+
+#calls_to_action .button {display: inline-block;padding: 0 45px;color: #58b465;text-transform: uppercase;text-decoration: none;font-weight: bold;font-size: 11px;line-height: 45px;letter-spacing: 0.2em;border: 1px solid #58b465;border-radius: 5px;transition: color 0.2s, background-color 0.2s;}
+#calls_to_action .button:hover {color: #fff;background-color: #58b465;}
+
+
+#calls_to_action .open_positions .container h3 {background-image: url(../../images/careers/calls_to_action-open_positions-container-h3-bkg.png);}
+#calls_to_action .benefits .container h3 {background-image: url(../../images/careers/calls_to_action-benefits-container-h3-bkg.png);}
+#calls_to_action .consultant_support_team .container h3 {background-image: url(../../images/careers/calls_to_action-consultant_support_team-container-h3-bkg.png);}
+#calls_to_action .community_engagement .container h3 {background-image: url(../../images/careers/calls_to_action-community_engagement-container-h3-bkg.png);}
+
+#calls_to_action .open_positions .container .hover {background-color: #4285c9;}
+#calls_to_action .benefits .container .hover {background-color: #6859ab;}
+#calls_to_action .consultant_support_team .hover {background-color: #f68103;}
+#calls_to_action .community_engagement .container .hover {background-color: #58b465;}
+
+#calls_to_action .open_positions .container .hover h3 {background-image: url(../../images/careers/calls_to_action-open_positions-container-hover-h3-bkg.png);}
+#calls_to_action .benefits .container .hover h3 {background-image: url(../../images/careers/calls_to_action-benefits-container-hover-h3-bkg.png);}
+#calls_to_action .consultant_support_team .container .hover h3 {background-image: url(../../images/careers/calls_to_action-consultant_support_team-container-hover-h3-bkg.png);}
+#calls_to_action .community_engagement .container .hover h3 {background-image: url(../../images/careers/calls_to_action-community_engagement-container-hover-h3-bkg.png);}
+
+.no_underline {
+    text-decoration:none;
+}
+
+[type="radio"] {
+  border: 0; 
+  clip: rect(0 0 0 0); 
+  height: 1px; margin: -1px; 
+  overflow: hidden; 
+  padding: 0; 
+  position: absolute; 
+  width: 1px;
+}
+
+/* One radio button per line */
+
+[type="radio"] + span {
+  display: block;
+}
+
+/* the basic, unchecked style */
+[type="radio"] + span:before {
+  content: '';
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.25em;
+  border-radius: 1em;
+  border: 0.125em solid #444444;
+
+  margin-right: 0.75em;
+  transition: 0.5s ease all;
+}
+
+/* the checked style using the :checked pseudo class */
+[type="radio"]:checked + span:before {
+  background: #E31717;
+}
+
+.validation_err{
+	float:right;
+	color:red;
+	font-size:15px;
+	
+}
+
+.has-error{
+	border-color:red !important;
+}
+
+#map {
+ height:420px;
+ width:600px;
 }

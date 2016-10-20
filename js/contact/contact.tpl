@@ -9,16 +9,15 @@
 		<h4 class="text-center">Contact Us</h4>
         <p class="text-center"><strong>Our team is standing by to help you manage your project, learn more about our service offerings, or provide a quote.</strong> </p>
         <address class="text-center">
-  <strong>Call Client Services at 513-449-4901<br>
-  Email : sales@luxbill.com<br>
-  Reach Us: Luxbill LLC, <br>4107 Hunting Horn act # 7,<br>Cincinnati, OH 45255,<br>Tel: 513-449-4901<br></strong>
+  <b>Call Client Services</b> at 513-449-4901<br>
+  <b>Email : </b><a href="mailto:sales@luxbill.com">sales@luxbill.com</a><br>
+  <b>Reach Us: </b>Luxbill LLC, <br>4107 Hunting Horn act # 7,<br>Cincinnati, OH 45255,<br><b>Tel:</b> 513-449-4901<br>
 </address>
-        
         </div>
 			
 		
 		</div>
-	
+	<div class="col-md-12 col-sm-12 col-xs-12"><div id="map"></div></div>
 	<div class="col-md-12 col-sm-12 col-xs-12">
         
          <div class="col-md-4 col-md-offset-4">

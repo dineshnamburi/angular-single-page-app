@@ -5,6 +5,7 @@
 			<div class="col-lg-12">
 				<div class="col-md-2">
 					<ul class="nav nav-pills nav-stacked">
+					
 						<h1><a href="https://www.luxbill.com"><img style="width:120px;" src="assets/images/logo.png"></a></h1>
                         <span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=lqv5yNJeMhEXhnGcJIvEJpyTCcNNl4SWfCM06uVKDcYGOFB62vc7KA5mt7jj"></script></span>
 					</ul>
@@ -13,10 +14,10 @@
 					<ul class="nav nav-pills nav-stacked">
 						<h4>About</h4>
 						<li><a ui-sref="about">About</a></li>
-						<li><a ng-href="{{settings.fb}}" target="_blank">Facebook</a></li>
-						<li><a ng-href="{{settings.twitter}}" target="_blank">Twitter</a></li>
-                        <li><a ng-href="{{settings.linkedin}}" target="_blank">Instagram</a></li>
-					</ul>
+					</ul><br/>
+						<a ng-href="{{settings.fb}}" target="_blank"><img src="images/icons/fb1.png" /></a>
+						<a ng-href="{{settings.twitter}}" target="_blank"><img src="images/icons/twitter1.png" /></a>
+                        <a ng-href="{{settings.linkedin}}" target="_blank"><img src="images/icons/insta1.png" /></a>
 				</div>
 				<div class="col-md-2">
 					<ul class="nav nav-pills nav-stacked">
@@ -55,7 +56,6 @@
 					<li>&copy; 2016 Luxbill</li>
                     
 				</ul>
-                <div class="text-right">Powered By: <a href="http://www.netflue.com" target="_blank">Netflue</a></div>
 			</div>
 		</div>
 	</div>

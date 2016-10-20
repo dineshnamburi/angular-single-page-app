@@ -4,6 +4,9 @@
         <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
+			<li data-target="#myCarousel" data-slide-to="4"></li>
            
         </ol>
 
@@ -27,6 +30,32 @@
                 </div>
             </div>
             
+			<div class="item ">
+                
+				<img class="fill" src="images/cms/banner10.jpg">
+                <div class="carousel-caption">
+                    <h2>Luxbill Organizes Your Unstructured Data.</h2>
+                    <p>We provide hands-on project management to enrich and organize your large<br> datasets, with a business model that lifts people out of poverty.</p>
+                </div>
+            </div>
+			
+			<div class="item ">
+                
+				<img class="fill" src="images/cms/banner8.jpg">
+                <div class="carousel-caption">
+                    <h2>Luxbill Organizes Your Unstructured Data.</h2>
+                    <p>We provide hands-on project management to enrich and organize your large<br> datasets, with a business model that lifts people out of poverty.</p>
+                </div>
+            </div>
+			
+			<div class="item ">
+                
+				<img class="fill" src="images/cms/banner6.jpg">
+                <div class="carousel-caption">
+                    <h2>Luxbill Organizes Your Unstructured Data.</h2>
+                    <p>We provide hands-on project management to enrich and organize your large<br> datasets, with a business model that lifts people out of poverty.</p>
+                </div>
+            </div>
            
         </div>
 
